@@ -1,7 +1,7 @@
 ---
 name: Wordle Story
-about: Wordle 293
-title: ''
+about: This template will help create an issue for the Wordle Stories!
+title: Wordle 293
 labels: Wordle Story
 assignees: ''
 
@@ -10,7 +10,7 @@ assignees: ''
 Date: April 08, 2022
 Answer: Scare
 Guesses: Earth, Rival, Rears, Share, Stare, Snare
-Link: https://twitter.com/010shivam/status
+Link: https://twitter.com/010shivam/status/...
 
 Sun, Moon and Earth are round.
 Brave Rivals are planning in the town.
