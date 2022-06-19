@@ -8,9 +8,9 @@ assignees: ''
 ---
 
 Date: April 08, 2022
+Link: 
 Answer: Scare
 Guesses: Earth, Rival, Rears, Share, Stare, Snare
-Link: https://twitter.com/010shivam/status/...
 
 Sun, Moon and Earth are round.
 Brave Rivals are planning in the town.
